@@ -1,0 +1,15 @@
+{
+  "name": "netspot",
+  "version": "1.0.0",
+  "description": "Tenha informações sobre redes wifi proximas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "David Silva",
+  "license": "ISC",
+  "dependencies": {
+    "node-wifi": "^2.0.16",
+    "prompt": "^1.3.0"
+  }
+}
